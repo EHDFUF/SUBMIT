@@ -15,7 +15,7 @@ print(f"{round(pound_from_kg * 2.20462, 1)}pound 입니다")
 radius = int(input("반지름을 입력하세요: "))
 pi = 3.14 # 상수 , 파이값은 안변함 
 
-print(f"원의 둘레는 {round(2 * radius * pi, 1)}입니다 \n 원의 넓이는 {round(radius ** 2 * pi, 1)}입니다다 ")
+print(f"원의 둘레는 {round(2 * radius * pi, 1)}입니다 \n원의 넓이는 {round(radius ** 2 * pi, 1)}입니다다 ")
 
 # 끝끝 과제끝
 
