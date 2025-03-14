@@ -10,7 +10,7 @@ pound_from_kg = int(input("kg 단위를 입력하세요: "))
 
 print(f"{round(pound_from_kg * 2.20462, 1)}pound 입니다")
 
-# 3번문제 : 반지름 r 로 원둘레,넓이 구하기 (이건 참고 안해도 될듯듯)
+# 3번문제 : 반지름 r 로 원둘레,넓이 구하기 (이건 참고 안해도 될듯)
 
 radius = int(input("반지름을 입력하세요: "))
 pi = 3.14 # 상수 , 파이값은 안변함 
